@@ -1,6 +1,7 @@
 # Rituraj's GitHub Projects
 A collection of all my projects on GitHub.
 ## C
+- <a href="https://github.com/Rituraj27/Classic-Clock">Classic Clock</a>
 ### Challenges
 - <a href="https://github.com/Rituraj27/Frontent-Mentored-Result-Summary">Result Summary</a>
 - <a href="https://github.com/Rituraj27/Frontend-Mentor-Order-Summary">Order Summary</a>
